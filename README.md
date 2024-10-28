@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @StuartCAlexander88 ,
-- Stuart Charles Alexander 03/02/1988
-- Current Software Development Student
+- Stuart Charles Alexander
+- Current Software Development/Engineering Student
 -
 - 👀 I’m interested in ...
 - Coding, Programmimng, Networking, Data Science, Ethical Hacking, Relational Database Management Systems.
 - 
 - 🌱 I’m currently learning ...
-- HTML, CSS, JavaScript, Python, R, Java, Visual Basic, C#, C++, Linux, MySQL, MariaDB
+- HTML, PHP, CSS, JavaScript, Python, R, Java, Visual Basic, C#, C++, Linux, SQL, MariaDB
 - 
 - Completed:
 - SCQF level 6 Computing (w/ Software Development and CyberSecurity) ***GRADE: Pass*** 2023
@@ -14,7 +14,7 @@
 -
 - Road Map:
 - HND Software Development
-- BA HONS Software Development
+- BA HONS Software Engineering
 - 
 - 💞️ I’m looking to collaborate on ...
 - Any projects you may have for me! i love coding and problem solving!
@@ -22,11 +22,8 @@
 - 📫 How to reach me ...
 - on here - stualexander@live.co.uk - www.linkedin.com/in/stuart-alexander-84b75276 - 
 - 
-- 😄 Pronouns: He/Him/Your Lordship/Sir/Master/Oy/hey you!
 - 
-- ⚡ Fun fact:  Retired Chef - Love food, can cook!
--  Have 2 kids and 2 step kids!
--  love cars, gaming, food, wild camping, fishing, mushroom foraging, growing my own produce and my partner 😄
+-
 -  
 
 <!---
