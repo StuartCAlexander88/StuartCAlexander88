@@ -1,27 +1,28 @@
-- 👋 Hi, I’m @StuartCAlexander88 ,
-- Stuart Charles Alexander
-- Current Software Development/Engineering Student
--
+- 👋 Hi, I’m @StuartCAlexander88
+- Current Software Engineering Undergraduate
+- Self hosts own web server and cloud
+- Keen interest in programming and developing software applications. Problem solving is strength.
+- 
 - 👀 I’m interested in ...
-- Coding, Programmimng, Networking, Data Science, Ethical Hacking, Relational Database Management Systems.
+- Coding, Programmimng, Software Engineering, Games Development, Web Development, Networking, Data Science, Ethical Hacking,
+- Relational Database Management Systems, Client and Server side scripting - Anything to do with problem solving and computing! 
+- Setting up home labs and messing around with raspberry Pi's. Creating intuitive and interactive websites and API's
 - 
 - 🌱 I’m currently learning ...
-- HTML, PHP, CSS, JavaScript, Python, R, Java, Visual Basic, C#, C++, Linux, SQL, MariaDB
+-  BENG HONS Software Engineering - Edinburgh Napier University
+-
+- 📖 Skills ...
+- Java, PHP, JavaScript, HTML, CSS, C++, C#, Python, R, Linux Cmd, Windows Cmd, VB, OCAML, Bash scripting
+- UML, Project Management, SDLC, Troubleshooting,
 - 
 - Completed:
+- HND: Software Development (SCQF Level 8)                           ***GRADE: A*** 2025
+- HNC: Software Development(w/ data Analytics)(SCQF level 7 & 8)     ***GRADE: A*** 2024
 - SCQF level 6 Computing (w/ Software Development and CyberSecurity) ***GRADE: Pass*** 2023
-- HNC: Software Development(w/ data Analytics)  (SCQF level 7 & 8)   ***GRADE: A*** 2024
--
+- 
 - Road Map:
-- HND Software Development
-- BA HONS Software Engineering
-- 
-- 💞️ I’m looking to collaborate on ...
-- Any projects you may have for me! i love coding and problem solving!
-- 
-- 📫 How to reach me ...
-- on here - stualexander@live.co.uk - www.linkedin.com/in/stuart-alexander-84b75276 - 
-- 
+- Gain 1st class honours degree (in progress) (2027)
+- Launch career as a Junior Developer and start growing! (2027)
 - 
 -
 -  
