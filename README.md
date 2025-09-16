@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @StuartCAlexander88
 - Current Software Engineering Undergraduate
 - Self hosts own web server and cloud
-- Keen interest in programming and developing software applications. Problem solving is strength.
+- Keen interest in programming and developing software applications.
 - 
 - 👀 I’m interested in ...
 - Coding, Programmimng, Software Engineering, Games Development, Web Development, Networking, Data Science, Ethical Hacking,
-- Relational Database Management Systems, Client and Server side scripting - Anything to do with problem solving and computing! 
-- Setting up home labs and messing around with raspberry Pi's. Creating intuitive and interactive websites and API's
+- Relational Database Management Systems, Client and Server side scripting, Setting up home labs and messing around with raspberry Pi's.
+- Creating intuitive and interactive websites and applications.
 - 
 - 🌱 I’m currently learning ...
 -  BENG HONS Software Engineering - Edinburgh Napier University
@@ -21,7 +21,7 @@
 - SCQF level 6 Computing (w/ Software Development and CyberSecurity) ***GRADE: Pass*** 2023
 - 
 - Road Map:
-- Gain 1st class honours degree (in progress) (2027)
+- Gain honours degree (in progress) (2027)
 - Launch career as a Junior Developer and start growing! (2027)
 - 
 -
