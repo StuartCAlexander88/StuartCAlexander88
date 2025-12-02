@@ -1,19 +1,23 @@
 - 👋 Hi, I’m @StuartCAlexander88
 - Current Software Engineering Undergraduate
-- Self hosts own web server and cloud
 - Keen interest in programming and developing software applications.
+- Born in the 80's. Lived through the evolution of the Coding Paradigm. Now Mastering it.
 - 
 - 👀 I’m interested in ...
-- Coding, Programmimng, Software Engineering, Games Development, Web Development, Networking, Data Science, Ethical Hacking,
-- Relational Database Management Systems, Client and Server side scripting, Setting up home labs and messing around with raspberry Pi's.
-- Creating intuitive and interactive websites and applications.
+- Coding, Programming, Software Engineering, Games Development, Web Development, Networking, Data Science, Ethical Hacking, Project Management, Troubleshooting, Teamworking.
+- Relational/Object Oriented Database Management Systems, Client and Server side scripting.
+- Creating intuitive and interactive websites and applications. Linux command line and device installation/configuration
 - 
 - 🌱 I’m currently learning ...
 -  BENG HONS Software Engineering - Edinburgh Napier University
+-  C#, Java, Docker, Python Flask, 
 -
 - 📖 Skills ...
-- Java, PHP, JavaScript, HTML, CSS, C++, C#, Python, R, Linux Cmd, Windows Cmd, VB, OCAML, Bash scripting
-- UML, Project Management, SDLC, Troubleshooting,
+- Python, Java, MySQL, Oracle SQL, PL/SQL, JavaScript, JSON, PHP, HTML, CSS, C++, C#, VB.NET,
+- R, Linux Cmd, Bash scripting, Windows Cmd,
+- OCAML, Docker, UML, XML, YML
+- Agile, SCRUM, Iterative and Legacy Methodologies.
+- 
 - 
 - Completed:
 - HND: Software Development (SCQF Level 8)                           ***GRADE: A*** 2025
