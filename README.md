@@ -4,13 +4,13 @@
 - Born in the 80's. Lived through the evolution of the Coding Paradigm. Now Mastering it.
 - 
 - 👀 I’m interested in ...
-- Coding, Programming, Software Engineering, Games Development, Web Development, Networking, Data Science, Ethical Hacking, Project Management, Troubleshooting, Teamworking.
+- Databases, Coding, Programming, Software Engineering, Games Development, Web Development, Networking, Data Science, Ethical Hacking, Project Management, Troubleshooting, Teamworking.
 - Relational/Object Oriented Database Management Systems, Client and Server side scripting.
 - Creating intuitive and interactive websites and applications. Linux command line and device installation/configuration
 - 
 - 🌱 I’m currently learning ...
--  BENG HONS Software Engineering - Edinburgh Napier University
--  C#, Java, Docker, Python Flask, 
+-  MENG Software Engineering - Edinburgh Napier University
+-  C#, Java, Docker, Python
 -
 - 📖 Skills ...
 - Python, Java, MySQL, Oracle SQL, PL/SQL, JavaScript, JSON, PHP, HTML, CSS, C++, C#, VB.NET,
@@ -26,7 +26,8 @@
 - 
 - Road Map:
 - Gain honours degree (in progress) (2027)
-- Launch career as a Junior Developer and start growing! (2027)
+- Gain Masters in Software Engineering  (2027)
+- Launch career as a Software Engineer and start growing! (2028)
 - 
 -
 -  
