@@ -26,7 +26,7 @@
 - 
 - Road Map:
 - Gain honours degree (in progress) (2027)
-- Gain Masters in Software Engineering  (2027)
+- Gain Masters in Software Engineering  (2028)
 - Launch career as a Software Engineer and start growing! (2028)
 - 
 -
